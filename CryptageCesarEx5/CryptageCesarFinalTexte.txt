@@ -1,0 +1,16 @@
+Question4 : 
+
+Le message suivant : wpd aczqd o'tdy dzye wpd xptwwpfcd!. 
+Donne une fois décodé, le message :  "les profs d'isn sont les meilleurs!."
+Son décalage est de 11 en avant ou de 15 en arrière.
+
+Question 5 :
+
+Le point faible de cette technique est le nombre restreint de possibilités de décalage. Cette quantité minime de possibilités rend les messages cryptés par celle-ci facilement décryptable
+à la main car elle ne comporte que 26 possibilités.  Cette méthode est donc aussi très faible face à un ordinateur comme le montre notre programme de force brute ou "bruteforce" qui permet
+de craquer n'importe quel message crypté par cette méthode. De plus nous pourrions étudier la fréquence d'apparition de chaque lettre pour ainsi deviner quelle lettre représente le "e" qui est très fréquent.
+
+Afin de rendre cette méthode plus difficile à crypter, nous pourrions l'associer au "chiffre de Vigenère" qui est une méthode qui permet par exemple de décaler les trois premières lettres de 5 puis les trois suivantes
+de 6 et ainsi de suite. Cette simple modification augmenterait considérablement la difficulté de décryptage d'un message crypté. 
+
+
